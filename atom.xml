@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.zhongneng.me/</id>
     <title>Debug The World</title>
-    <updated>2019-06-03T15:08:27.747Z</updated>
+    <updated>2019-06-03T15:12:36.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.zhongneng.me/"/>
     <link rel="self" href="https://www.zhongneng.me//atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://www.zhongneng.me//images/avatar.png</logo>
     <icon>https://www.zhongneng.me//favicon.ico</icon>
     <rights>All rights reserved 2019, Debug The World</rights>
+    <entry>
+        <title type="html"><![CDATA[第一篇文章测试一下]]></title>
+        <id>https://www.zhongneng.me//post/di-yi-pian-wen-zhang-ce-shi-yi-xia</id>
+        <link href="https://www.zhongneng.me//post/di-yi-pian-wen-zhang-ce-shi-yi-xia">
+        </link>
+        <updated>2019-06-03T15:10:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>前面是摘要？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>前面是摘要？</p>
+<!-- more -->
+<p>这里是正文开始啦？</p>
+<h3 id="测试标题">测试标题</h3>
+<blockquote>
+<p>测试内容</p>
+</blockquote>
+<p>测试代码</p>
+<pre><code>&lt;?php
+	hello world
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://www.zhongneng.me//post/about</id>
